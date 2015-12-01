@@ -1,7 +1,7 @@
 ZBMP Sweeper
 =============
 
-This generates zbuffer-sweeping GIFs. 
+This generates zbuffer-sweeping GIFs from ZBMP/MBMP backgrounds from Microsoft 3D Movie Maker
 
 Requirements
 ============
@@ -10,6 +10,7 @@ Requirements
 * [numpy](http://www.numpy.org/)
 * [PIL](http://www.pythonware.com/products/pil/) or [Pillow](https://pillow.readthedocs.org/en/3.0.x/installation.html)
 * [3dmm Pencil++](http://frank.weindel.info/proj.pencil.html)
+* [3D Movie Maker](https://en.wikipedia.org/wiki/3D_Movie_Maker)
 
 Usage
 =====
