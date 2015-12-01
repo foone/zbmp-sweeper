@@ -1,7 +1,9 @@
 ZBMP Sweeper
 =============
 
-This generates zbuffer-sweeping GIFs from ZBMP/MBMP backgrounds from Microsoft 3D Movie Maker
+This generates zbuffer-sweeping GIFs from ZBMP/MBMP backgrounds from Microsoft 3D Movie Maker.
+
+![example zbmp sweep gif](http://i.imgur.com/EQBpRHX.gif)
 
 Requirements
 ============
